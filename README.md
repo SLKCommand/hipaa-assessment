@@ -1,1 +1,1 @@
-# -hipaa-assessment
+# hipaa-assessment
